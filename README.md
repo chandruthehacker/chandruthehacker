@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandru — aka [@chandruthehacker](https://github.com/chandruthehacker)
+# 👋 Hi, I'm Chandraparakash — [@chandruthehacker](https://github.com/chandruthehacker)
 
 🎓 B.Sc. Computer Science | 💻 Aspiring Security Analyst | 🚀 Future Cybersecurity Entrepreneur
 

@@ -62,7 +62,7 @@ A powerful Python-based tool to **automatically detect and parse logs** from var
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chandraprakash87/)
-- 📁 [GitHub Portfolio](https://github.com/chandruthehacker)
+- 📁 [GitHub Portfolio](https://chandruthehacker.github.io/portfolio/)
 - ✍️ [Medium Blog](https://medium.com/@cyberchandru87)
 - 📧 Email: cyberchandru87@gmail.com
 

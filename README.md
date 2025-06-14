@@ -5,7 +5,7 @@
 
 ---
 
-### [🌐 Visit My Portfolio](https://chandruthehacker.github.io/portfolio/)
+### [🌐 Visit My Portfolio](https://chandruthehacker.github.io/)
 
 ---
 <img align="right" alt="Cyber Warrior" width="400" src="https://cdn.dribbble.com/users/2792418/screenshots/14640404/media/4f2be3bfa9b7726a4f62cc9f9f9ef6f8.gif">

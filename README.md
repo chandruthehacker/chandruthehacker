@@ -8,7 +8,6 @@
 ### [🌐 Visit My Portfolio](https://chandruthehacker.github.io/)
 
 ---
-<img align="right" alt="Cyber Warrior" width="400" src="https://cdn.dribbble.com/users/2792418/screenshots/14640404/media/4f2be3bfa9b7726a4f62cc9f9f9ef6f8.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chandruthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="chandruthehacker" />
@@ -44,7 +43,6 @@
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/>
 </p>
 
 ---

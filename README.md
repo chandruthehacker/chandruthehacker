@@ -1,76 +1,90 @@
-# 👋 Hi, I'm Chandraprakash C — [@chandruthehacker](https://github.com/chandruthehacker)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://chandruthehacker.github.io/portfolio/)
 
-🎓 B.Sc. Computer Science | 💻 Security Analyst Aspirant | 🚀 Cybersecurity Enthusiast  
-🔎 GitHub: [chandruthehacker](https://github.com/chandruthehacker) | 🌐 Portfolio: [chandruthehacker.github.io](https://chandruthehacker.github.io)
+<h1 align="center">Hi 👋, I'm Chandraprakash C</h1>
+<h3 align="center">🔐 Aspiring Security Analyst | 🛡️ Cybersecurity Enthusiast | 🚀 Future Cyber Startup Founder</h3>
 
----
+<img align="right" alt="Cyber Warrior" width="400" src="https://cdn.dribbble.com/users/2792418/screenshots/14640404/media/4f2be3bfa9b7726a4f62cc9f9f9ef6f8.gif">
 
-## 🌟 About Me
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chandruthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="chandruthehacker" />
+</p>
 
-I'm **Chandraprakash**, also known online as **`chandruthehacker`**, currently pursuing my B.Sc. in Computer Science (2nd Year). I specialize in building **real-world cybersecurity projects** and aim to become a **Security Analyst / SOC Analyst**.
-
-I’m passionate about solving cyber threats through tools and automation. My ultimate goal is to launch a **cybersecurity startup** that helps organizations detect and respond to attacks.
-
-- ✅ Completed: **Google Cybersecurity Professional Certificate**
-- ✅ Completed: **Internshala Ethical Hacking Course**
-- 🔜 Learning: **IBM Cybersecurity Analyst Certificate**
-- 🔐 Focus Areas: Log Analysis, Threat Hunting, SIEM, Phishing Detection
-- 💻 Tech Stack: Python, Linux, SQL, Bash, Wireshark, Nmap, Git & GitHub
-- 🧠 Platforms: TryHackMe, Hack The Box
-- ✍️ Blogging at [Medium](https://medium.com/@cyberchandru87)
+- 🔭 I’m currently building **real-world cybersecurity tools**
+- 🌱 Learning **Splunk, SIEM, Threat Hunting, Blue Team Techniques**
+- 🧠 Deeply interested in **Log Analysis, Email Phishing Detection, Network Forensics**
+- 🛠️ Highlight Project: [Log Parser Tool 🔍](https://github.com/chandruthehacker/log-parser)
+- 📫 Reach me at **cyberchandru87@gmail.com**
+- ✍️ I share blogs at [Medium](https://medium.com/@cyberchandru87)
+- 🚀 Goal: Launch a **Cybersecurity Startup** that detects and responds to threats in real-time
 
 ---
 
-## 🔧 Highlight Project – [Log Parser Tool](https://github.com/chandruthehacker/log-parser)
+### 🛡️ Certifications
 
-A powerful Python-based multi-log parser for real-world cybersecurity analysis.
-
-**🔎 Features:**
-- Auto-detect Apache, Nginx, Syslog, Auth.log formats
-- Detect brute-force & suspicious logins
-- GeoIP-based flagging
-- Export as CSV/Excel or visualize with graphs
-- Clean command-line interface
-
-> 🛡️ Use this tool for your blue team or threat detection projects.
+- 🟢 Google Cybersecurity Professional Certificate *(Completed)*
+- 🟡 Internshala Ethical Hacking *(Completed)*
+- 🔵 IBM Cybersecurity Analyst *(Planned)*
 
 ---
 
-## 🏆 Certifications
+### 🧰 Tools, Languages & Tech Stack
 
-| Certificate | Status |
-|-------------|--------|
-| 🟢 Google Cybersecurity Certificate | ✅ Completed |
-| 🟡 Internshala Ethical Hacking | ✅ Completed |
-| 🔵 IBM Cybersecurity Analyst (Coursera) | ⏳ In Progress |
-
----
-
-## 📊 GitHub Stats
-
-![Chandruthehacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=radical)
-
----
-
-## 🎯 2025 Roadmap
-
-- ✅ Publish 5+ cybersecurity tools on GitHub
-- 💼 Start a Security Analyst internship or job
-- 📈 Grow my blog audience on Medium
-- 🌐 Get my GitHub profile indexed and ranked by Google
-- 💬 Speak at cybersecurity meetups or student events
-- 🧑‍🔬 Begin prototyping cybersecurity startup ideas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+### 📊 GitHub Stats
 
-- 🌐 Portfolio: [https://chandruthehacker.github.io](https://chandruthehacker.github.io)
-- 💼 LinkedIn: [linkedin.com/in/chandraprakash87](https://www.linkedin.com/in/chandraprakash87/)
-- ✍️ Medium Blog: [@cyberchandru87](https://medium.com/@cyberchandru87)
-- 📧 Email: cyberchandru87@gmail.com
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandruthehacker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=tokyonight" alt="Chandru's GitHub stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandruthehacker&theme=tokyonight" alt="Streak Stats" />
+</p>
 
 ---
 
-> 🔒 _“Cybersecurity is not a product, but a process.” — Bruce Schneier_  
-> 🧠 _“The best defense is an informed mind.” — chandruthehacker_
+### 🎯 2025 Roadmap
+
+- ✅ Build 5+ Security Tools (Log Parser, Phishing Detector, etc.)
+- ✅ Grow my GitHub & Medium audience
+- 🛡️ Land a **Security Analyst Internship**
+- 📢 Speak at cybersecurity events
+- 🔧 Contribute to open-source blue team tools
+- 🚀 Prototype my threat detection platform
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/chandraprakash87" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@cyberchandru87" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+  </a>
+  <a href="https://chandruthehacker.github.io/portfolio/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+> 🔐 *"Cybersecurity is not just a skill, it’s a responsibility."* — Chandraprakash

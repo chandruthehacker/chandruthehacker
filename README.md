@@ -83,9 +83,7 @@
    <a href="https://www.instagram.com/chandru_the_hacker" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://chandruthehacker.github.io/portfolio/" target="blank" style="text-decoration: none; font-size: 40px;">
-    🌐
-  </a>
+  [🌐 Portfolio](https://chandruthehacker.github.io/portfolio/)
 </p>
 
 ---

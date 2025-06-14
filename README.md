@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Chandraprakash C</h1>
 <h3 align="center">🔐 Aspiring Security Analyst | 🛡️ Cybersecurity Enthusiast | 🚀 Future Cyber Startup Founder</h3>
 
+---
+
+### [🌐 Visit My Portfolio](https://chandruthehacker.github.io/portfolio/)
+
+---
 <img align="right" alt="Cyber Warrior" width="400" src="https://cdn.dribbble.com/users/2792418/screenshots/14640404/media/4f2be3bfa9b7726a4f62cc9f9f9ef6f8.gif">
 
 <p align="left">
@@ -84,10 +89,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
-
----
-
-### [🌐 Visit My Portfolio](https://chandruthehacker.github.io/portfolio/)
 
 ---
 

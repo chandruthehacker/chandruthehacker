@@ -1,71 +1,76 @@
 # 👋 Hi, I'm Chandraprakash C — [@chandruthehacker](https://github.com/chandruthehacker)
 
-🎓 B.Sc. Computer Science | 💻 Aspiring Security Analyst | 🚀 Future Cybersecurity Entrepreneur
+🎓 B.Sc. Computer Science | 💻 Security Analyst Aspirant | 🚀 Cybersecurity Enthusiast  
+🔎 GitHub: [chandruthehacker](https://github.com/chandruthehacker) | 🌐 Portfolio: [chandruthehacker.github.io](https://chandruthehacker.github.io)
 
 ---
 
 ## 🌟 About Me
 
-I'm a passionate Computer Science student currently pursuing my B.Sc. degree (2nd Year) and diving deep into the world of **Cybersecurity**. My mission is to become a **Security Analyst** and eventually launch a **Cybersecurity Startup** that protects organizations from evolving digital threats.
+I'm **Chandraprakash**, also known online as **`chandruthehacker`**, currently pursuing my B.Sc. in Computer Science (2nd Year). I specialize in building **real-world cybersecurity projects** and aim to become a **Security Analyst / SOC Analyst**.
 
-- ✅ Completed: **Google Cybersecurity Certificate**
+I’m passionate about solving cyber threats through tools and automation. My ultimate goal is to launch a **cybersecurity startup** that helps organizations detect and respond to attacks.
+
+- ✅ Completed: **Google Cybersecurity Professional Certificate**
 - ✅ Completed: **Internshala Ethical Hacking Course**
-- 🎯 Next: **IBM Cybersecurity Analyst Certificate**
-- 🔐 Interests: Network Security, Log Analysis, Ethical Hacking, Threat Detection
-- 🛠️ Skills: Python, Linux, Bash, SQL, Wireshark, Nmap, Git & GitHub
-- ✍️ I write blogs on [Medium](https://medium.com/@cyberchandru87) about cybersecurity, tools, and my learning journey
+- 🔜 Learning: **IBM Cybersecurity Analyst Certificate**
+- 🔐 Focus Areas: Log Analysis, Threat Hunting, SIEM, Phishing Detection
+- 💻 Tech Stack: Python, Linux, SQL, Bash, Wireshark, Nmap, Git & GitHub
+- 🧠 Platforms: TryHackMe, Hack The Box
+- ✍️ Blogging at [Medium](https://medium.com/@cyberchandru87)
 
 ---
 
-## 💼 Certifications
+## 🔧 Highlight Project – [Log Parser Tool](https://github.com/chandruthehacker/log-parser)
 
-- 🟢 **Google Cybersecurity Professional Certificate** *(Completed)*
-- 🟡 **Internshala Ethical Hacking** *(Completed)*
-- 🔵 **IBM Cybersecurity Analyst Certificate** *(Planned)*
+A powerful Python-based multi-log parser for real-world cybersecurity analysis.
+
+**🔎 Features:**
+- Auto-detect Apache, Nginx, Syslog, Auth.log formats
+- Detect brute-force & suspicious logins
+- GeoIP-based flagging
+- Export as CSV/Excel or visualize with graphs
+- Clean command-line interface
+
+> 🛡️ Use this tool for your blue team or threat detection projects.
 
 ---
 
-## 🛠️ Highlight Project
+## 🏆 Certifications
 
-### 🔍 Log Parser (Multi-Log Analysis Tool)
-
-A powerful Python-based tool to **automatically detect and parse logs** from various formats (Apache, Nginx, Syslog, Auth.log), and export results as CSV/Excel or visualize them with Matplotlib. Built for real-world cybersecurity log analysis.
-
-**Features:**
-- Log type auto-detection
-- Brute-force SSH & suspicious login detection
-- GeoIP-based access alerts
-- CSV, Excel, and chart export options
-- Clean CLI interface
-
-> 📂 Check it out: [Log Parser Repository](https://github.com/chandruthehacker/log-parser)
+| Certificate | Status |
+|-------------|--------|
+| 🟢 Google Cybersecurity Certificate | ✅ Completed |
+| 🟡 Internshala Ethical Hacking | ✅ Completed |
+| 🔵 IBM Cybersecurity Analyst (Coursera) | ⏳ In Progress |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Chandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=radical)
+![Chandruthehacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=radical)
 
 ---
 
 ## 🎯 2025 Roadmap
 
-- 🛠️ Build 5+ real-world cybersecurity tools
-- 🧑‍💻 Land an **entry-level Security Analyst** role or internship
-- ✍️ Publish regular blog posts and GitHub repos
-- 🚀 Start prototyping my **cybersecurity startup** idea
-- 🤝 Contribute to open-source security projects
-- 🎤 Speak at or organize a cybersecurity event for students
+- ✅ Publish 5+ cybersecurity tools on GitHub
+- 💼 Start a Security Analyst internship or job
+- 📈 Grow my blog audience on Medium
+- 🌐 Get my GitHub profile indexed and ranked by Google
+- 💬 Speak at cybersecurity meetups or student events
+- 🧑‍🔬 Begin prototyping cybersecurity startup ideas
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chandraprakash87/)
-- 📁 [GitHub Portfolio](https://chandruthehacker.github.io/portfolio/)
-- ✍️ [Medium Blog](https://medium.com/@cyberchandru87)
+- 🌐 Portfolio: [https://chandruthehacker.github.io](https://chandruthehacker.github.io)
+- 💼 LinkedIn: [linkedin.com/in/chandraprakash87](https://www.linkedin.com/in/chandraprakash87/)
+- ✍️ Medium Blog: [@cyberchandru87](https://medium.com/@cyberchandru87)
 - 📧 Email: cyberchandru87@gmail.com
 
 ---
 
-> 🔒 "Cybersecurity is not a product, but a process." — Bruce Schneier
+> 🔒 _“Cybersecurity is not a product, but a process.” — Bruce Schneier_  
+> 🧠 _“The best defense is an informed mind.” — chandruthehacker_

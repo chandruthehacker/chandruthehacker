@@ -90,4 +90,4 @@
 
 ---
 
-> 🔐 *"Cybersecurity is not just a skill, it’s a responsibility."* — Chandraprakash
+> 🔐 *"Cybersecurity is not just a skill, it’s a responsibility."* — Chandraprakash C (chandruthehacker)

@@ -50,14 +50,6 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandruthehacker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandruthehacker&theme=tokyonight" alt="Streak Stats" />
 </p>
 

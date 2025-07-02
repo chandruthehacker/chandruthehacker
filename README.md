@@ -16,7 +16,7 @@
 - 🧠 Passionate about **Cybersecurity Blue Team**  
 - 🛠️ Highlight Project: [AI Phishing Email Detector 🔍](https://github.com/chandruthehacker/phishing-email-detector)  
 - 📫 Reach me at: **cyberchandru87@gmail.com**  
-- ✍️ Sharing knowledge at [Medium](https://medium.com/@cyberchandru87)  
+- ✍️ Sharing knowledge at [Medium](https://medium.com/@chandruthehacker)  
 - 🎯 Vision: Launch a cybersecurity startup to detect/respond to real-time threats  
 
 ---

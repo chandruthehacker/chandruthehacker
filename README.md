@@ -13,8 +13,8 @@
 
 - 🔭 Currently building **real-world cybersecurity tools** for blue team operations  
 - 🌱 Learning **Splunk, Threat Hunting, SIEM, and Incident Response**  
-- 🧠 Passionate about **Log Analysis, Email Phishing Detection, Network Forensics**  
-- 🛠️ Highlight Project: [Log Parser Tool 🔍](https://github.com/chandruthehacker/log-parser)  
+- 🧠 Passionate about **Cybersecurity Blue Team**  
+- 🛠️ Highlight Project: [AI Phishing Email Detector 🔍](https://github.com/chandruthehacker/phishing-email-detector)  
 - 📫 Reach me at: **cyberchandru87@gmail.com**  
 - ✍️ Sharing knowledge at [Medium](https://medium.com/@cyberchandru87)  
 - 🎯 Vision: Launch a cybersecurity startup to detect/respond to real-time threats  

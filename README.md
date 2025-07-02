@@ -43,13 +43,6 @@
   <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandruthehacker&theme=tokyonight" alt="Streak Stats" />
-</p>
 
 ---
 

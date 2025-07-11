@@ -13,7 +13,8 @@
 
 ---
 
-### 🌐 [Visit My Portfolio](https://chandruthehacker.github.io/)
+### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)
+### 🌐 [Visit My Portfolio Repo](https://chandruthehacker.github.io/portfolio)
 
 ---
 

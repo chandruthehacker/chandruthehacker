@@ -8,7 +8,7 @@
   <a href="https://chandruthehacker.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/chandraprakash87"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@chandruthehacker"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -33,34 +33,40 @@
 
 ### 🛡️ **Defensive Security Stack**
 #### 🔍 **Threat Detection**
-```markdown
-SIEM: Wazuh | Splunk | ELK Stack 
-IDS/IPS: Suricata | Snort 
-EDR: OSSEC | Wazuh 
-Threat Intel: MISP | AlienVault OTX
-```
+
+| Category      | Tools                           |
+|---------------|----------------------------------|
+| **SIEM**      | Wazuh, Splunk, ELK Stack         |
+| **IDS/IPS**   | Suricata, Snort                  |
+| **EDR**       | OSSEC, Wazuh                     |
+| **Threat Intel** | MISP, AlienVault OTX          |
 
 #### ⚙️ Security Automation
-```markdown
-Python (Security Scripting) | Bash | PowerShell 
-Log Parsing: Regex | GROK 
-Orchestration: TheHive | Cortex
-```
+
+| Category             | Tools                               |
+|----------------------|--------------------------------------|
+| **Scripting**        | Python, Bash, PowerShell             |
+| **Log Parsing**      | Regex, GROK                          |
+| **Orchestration**    | TheHive, Cortex                      |
 
 #### 📜 Frameworks & Standards
-```
-MITRE ATT&CK | NIST CSF | Cyber Kill Chain 
-PCI DSS | ISO 27001
-```
+
+| Standards & Frameworks                          |
+|-------------------------------------------------|
+| MITRE ATT&CK, NIST CSF, Cyber Kill Chain        |
+| PCI DSS, ISO 27001                              |
+
 
 ---
 
 ### 🚨 Active Projects
-Project |	Description |	Tools
-🔒 Wazuh Rule Optimizer	| Custom rules reducing false positives by 20% | Wazuh, YARA
-📡 Network Traffic Analyzer	| Detecting C2 traffic with Suricata | Suricata, Zeek
-📝 Sigma Rule Generator	| Converting IOC feeds to Sigma rules |	Python, Sigma
-🛡️ Active Directory Hardening	| PowerShell scripts for AD security | PowerShell, BloodHound
+
+| Project                       | Description                                 | Tools                      |
+|------------------------------|---------------------------------------------|----------------------------|
+| 🔒 Wazuh Rule Optimizer       | Custom rules reducing false positives by 20% | Wazuh, YARA                |
+| 📡 Network Traffic Analyzer   | Detecting C2 traffic with Suricata           | Suricata, Zeek             |
+| 📝 Sigma Rule Generator       | Converting IOC feeds to Sigma rules          | Python, Sigma              |
+| 🛡️ Active Directory Hardening | PowerShell scripts for AD security           | PowerShell, BloodHound     |
 
 ---
 
@@ -73,14 +79,14 @@ Project |	Description |	Tools
 ### 🏆 Certifications & Achievements
 - ✅ Google Cybersecurity Certificate (Coursera)
 - ✅ Certified Wazuh Engineer (In Progress)
-- 🥇 1st Place - College CTF (Forensics Challenge)
 - 🔜 Planned: CompTIA CySA+ (2025)
 
 --- 
 
 ### 🎯 2025 Focus Areas
-```pie
-    title 2025 Skill Investments
+
+```mermaid
+pie title 2025 Skill Investments
     "Threat Hunting" : 35
     "Incident Response" : 30
     "Cloud Security" : 20
@@ -91,7 +97,7 @@ Project |	Description |	Tools
 
 ### 💬 Get In Touch
 
-<p align="center"> <a href="mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a> <a href="https://linkedin.com/in/chandraprakash87"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://tryhackme.com/p/chandruthehacker"><img src="https://img.shields.io/badge/TryHackMe-Profile-darkgreen?style=for-the-badge&logo=tryhackme"></a> </p>
+<p align="center"> <a href="https://mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a> <a href="https://linkedin.com/in/chandraprakash87"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://tryhackme.com/p/chandruthehacker"><img src="https://img.shields.io/badge/TryHackMe-Profile-darkgreen?style=for-the-badge&logo=tryhackme"></a> </p>
 
 ---
 

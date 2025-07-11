@@ -5,7 +5,7 @@
 <h3 align="center">🔐 Aspiring Security Analyst | 🛡️ Cybersecurity Enthusiast | 🚀 Future Cyber Startup Builder</h3>
 
 <p align="center">
-  <a href="https://chandruthehacker.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://chandruthehacker.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=world&logoColor=white"></a>
   <a href="https://linkedin.com/in/chandraprakash87"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@chandruthehacker"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

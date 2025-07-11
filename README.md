@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)
-### 🌐 [Visit My Portfolio Repo](https://chandruthehacker.github.io/portfolio)
+### 🌐 [Visit My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
 
 ---
 

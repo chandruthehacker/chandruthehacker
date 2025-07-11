@@ -26,7 +26,7 @@
 - 🔭 **Currently:** Building AI-powered security tools and contributing to open-source
 - 🌱 **Learning:** Cloud Security (AWS/Azure), Malware Analysis, and Threat Intelligence
 - 💡 **Passionate** about Blue Team operations and security automation
-- ✍️ **Blogger** sharing knowledge on [Medium](https://medium.com/@cyberchandru87)
+- ✍️ **Blogger** sharing knowledge on [Medium](https://medium.com/@chandruthehacker)
 - 🎯 **Goal:** To build a cybersecurity startup focused on AI-driven threat detection
 
 ---

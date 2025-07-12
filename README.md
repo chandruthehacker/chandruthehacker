@@ -13,6 +13,10 @@
 
 ---
 
+<p align="center"> <img src="https://github.com/chandruthehacker/chandruthehacker/blob/main/cybersecurity.jpg" width="100%" alt="Cybersecurity Banner"/> </p> 
+
+---
+
 ### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)
 ### 🌐 [Visit My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
 

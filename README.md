@@ -47,10 +47,10 @@
 | 🚨 **Alerting Engine** | Detects brute-force, anomalies & suspicious behavior |
 | 📬 **Notifications** | Sends alerts via Email, Slack, and Telegram |
 | ⚙️ **Settings Panel** | Manage log paths, rules, and alert configs |
-| 🔁 **Log Forwarder** | Cross-platform client (in progress) for real-time log shipping |
+| 🔁 **Log Forwarder** | Cross-platform client for real-time log shipping |
 
 > 🛠 Built with **FastAPI**, **React**, **SQLite**, **Tailwind CSS**, **Recharts**  
-> 🔗 [View Project on GitHub](https://github.com/chandruthehacker/sensiem)
+> ***🔗 [View Project on GitHub](https://github.com/chandruthehacker/SenSIEM)***
 
 ---
 

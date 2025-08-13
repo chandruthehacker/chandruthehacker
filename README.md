@@ -1,125 +1,142 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  Hey there! I'm Chandraprakash C (chandruthehacker)
-</h1>
-<h3 align="center">🔐 Aspiring Security Analyst | 🛡️ Cybersecurity Enthusiast | 🧠 Blue Team Learner</h3>
-
+<!-- Header GIF -->
 <p align="center">
- <a href="https://chandruthehacker.github.io/"><b>🌐 Portfolio</b></a>
-
-  <a href="https://mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="Animated_Gif_1.gif" alt="Anime SOC Analyst" style="max-width:100%; border-radius:10px;" />
 </p>
 
----
+<!-- Main Heading -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align:middle;"> 
+  Hey there! I'm <span style="color:#00F7FF;">Chandraprakash C</span>
+</h1>
 
-<p align="center"> <img src="https://github.com/chandruthehacker/chandruthehacker/blob/main/cybersecurity.jpg" width="100%" alt="Cybersecurity Banner"/> </p> 
-
----
-
-### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)
-### 🌐 [Visit My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chandruthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="chandruthehacker" />
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&lines=Aspiring+Security+Analyst+%F0%9F%94%90;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+Learner+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
-# 🚀 About Me
+<!-- Tagline -->
+<p align="center">
+  <b>🔵 Blue Teamer at heart — Building secure systems & hunting threats in the digital wilderness.</b>
+</p>
 
-- 🎓 I’m pursuing **B.Sc. Computer Science** with a specialization in **Cybersecurity**  
-- 🔭 I’m currently working on **[SenSIEM](https://github.com/chandruthehacker/SenSIEM)** — an open-source SIEM solution  
-- 🌱 I’m currently learning **Cloud Security (AWS/Azure), Malware Analysis, and Threat Intelligence**  
-- 👯 I’m looking to collaborate on **Blue Team projects, security automation, and open-source security tools**  
-- 👨‍💻 All of my projects are available at **[chandruthehacker.github.io](http://chandruthehacker.github.io/)**  
-- 💬 Ask me about **Cybersecurity, Ethical Hacking, Threat Detection, and Security Automation**  
-- 📫 How to reach me: **cyberchandru87@gmail.com**  
+<!-- Social Links -->
+<div align="center">
+  <a href="https://chandruthehacker.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Badge">
+  </a>
+  <a href="https://linkedin.com/in/chandruthehacker">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://medium.com/@chandruthehacker">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
+  </a>
+  <a href="mailto:cyberchandru87@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</div>
 
 ---
 
-### 🌟 **Featured Project: SenSIEM – Open Source SIEM & IDS**
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandruthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-> A full-stack log analysis and intrusion detection system that mimics real-world SIEM tools.
+<!-- About Me Section -->
+## 🚀 About Me  
+- 🎓 **B.Sc. Computer Science** student specializing in **Cybersecurity**  
+- 🔭 Currently building **[SenSIEM](https://github.com/chandruthehacker/SenSIEM)** — an open-source SIEM & IDS  
+- 🌱 Learning **Cloud Security (AWS/Azure)**, **Malware Analysis**, and **Threat Intelligence**  
+- 👯 Open to collaborating on **Blue Team tools**, **Security Automation**, and **SOC-related projects**  
+- 📝 Writing about security on **[Medium](https://medium.com/@chandruthehacker)**  
+- 💬 Ask me about **Cybersecurity, Threat Detection, and Ethical Hacking**  
+- 📫 Reach me at **cyberchandru87@gmail.com**  
+- 🎯 Long-term goal: **Build an AI-powered threat defense startup**  
+
+---
+
+<!-- Quick Links -->
+### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)  
+### 📂 [View My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
+
+---
+
+## 🌟 Featured Project: SenSIEM
+> A full-stack log analysis & intrusion detection platform inspired by enterprise SIEM tools.
 
 | Feature | Description |
-|--------|-------------|
+|---------|-------------|
 | 🔎 **Search Interface** | Splunk-style log search with custom filters |
-| 📊 **Dashboards** | Real-time charts for alerts, sources, IPs, and log types |
-| 🚨 **Alerting Engine** | Detects brute-force, anomalies & suspicious behavior |
-| 📬 **Notifications** | Sends alerts via Email, Slack, and Telegram |
-| ⚙️ **Settings Panel** | Manage log paths, rules, and alert configs |
-| 🔁 **Log Forwarder** | Cross-platform client for real-time log shipping |
+| 📊 **Dashboards** | Real-time charts for alerts, IPs, and log types |
+| 🚨 **Alerting Engine** | Detects brute-force, anomalies, suspicious behavior |
+| 📬 **Notifications** | Email, Slack, and Telegram alert delivery |
+| ⚙️ **Settings Panel** | Manage log paths, rules, and alerts |
+| 🔁 **Log Forwarder** | Real-time log shipping from multiple sources |
 
-> 🛠 Built with **FastAPI**, **React**, **SQLite**, **Tailwind CSS**, **Recharts**  
-> ***🔗 [View Project on GitHub](https://github.com/chandruthehacker/SenSIEM)***
-
----
-
-### 🛡️ **Defensive Security Stack**
-#### 🔍 **Threat Detection**
-
-| Category      | Tools                           |
-|---------------|----------------------------------|
-| **SIEM**      | Wazuh, Splunk, ELK Stack, **SenSIEM** |
-| **IDS/IPS**   | Suricata, Snort                  |
-| **EDR**       | OSSEC, Wazuh                     |
-| **Threat Intel** | MISP, AlienVault OTX          |
-
-#### ⚙️ Security Automation
-
-| Category             | Tools                               |
-|----------------------|--------------------------------------|
-| **Scripting**        | Python, Bash, PowerShell             |
-| **Log Parsing**      | Regex, GROK                          |
-| **Orchestration**    | TheHive, Cortex                      |
-
-#### 📜 Frameworks & Standards
-
-| Standards & Frameworks                          |
-|-------------------------------------------------|
-| MITRE ATT&CK, NIST CSF, Cyber Kill Chain        |
-| PCI DSS, ISO 27001                              |
+🛠 **Tech Stack:** FastAPI • React • SQLite • Tailwind CSS • Recharts  
+🔗 **[View on GitHub](https://github.com/chandruthehacker/SenSIEM)**
 
 ---
 
-### 🧪 **Active Projects**
+### 🛡️ My Arsenal: Skills & Tools
 
-| Project                       | Description                                 | Tools                      |
-|------------------------------|---------------------------------------------|----------------------------|
-| 🔐 **SenSIEM**               | Full-stack SIEM for log analysis & alerts    | FastAPI, React, SQLite     |
-| 📡 Network Traffic Analyzer   | Detecting C2 traffic with Suricata           | Suricata, Zeek             |
-| 📝 Sigma Rule Generator       | Converting IOC feeds to Sigma rules          | Python, Sigma              |
-| 🛡️ AD Hardening Toolkit       | PowerShell scripts for securing AD           | PowerShell, BloodHound     |
+My toolkit is constantly evolving. Here's a snapshot of the technologies I work with daily.
 
----
+#### **SIEM & Threat Detection**
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Suricata-A32929?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/Snort-2A9C46?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
+  <img src="https://img.shields.io/badge/Zeek-00AEEF?style=for-the-badge&logo=zeek&logoColor=white" alt="Zeek"/>
+</p>
 
-### 📊 **Security Metrics**
+#### **Automation & Scripting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandruthehacker&theme=dark&hide_border=true" width="48%">
+#### **Development & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </p>
 
 ---
 
-### 🏅 **Certifications & Achievements**
-- ✅ Google Cybersecurity Professional Certificate (Coursera)
-- ✅ Certified Wazuh Engineer *(In Progress)*
-- 🎯 Upcoming: CompTIA CySA+ (2025)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandruthehacker&theme=tokyonight&hide_border=true" width="48%">
+</p>
 
 ---
 
-### 🎯 **2025 Focus Areas**
+## 🏅 Certifications & Achievements
+- ✅ Google Cybersecurity Professional Certificate (Coursera)  
+- 🛠 Certified Wazuh Engineer *(In Progress)*  
+- 🎯 Preparing for CompTIA CySA+ (2025)  
 
+---
+
+## 🎯 2025 Focus Areas
 ```mermaid
 pie title 2025 Skill Investments
     "Threat Hunting" : 35
     "Incident Response" : 30
     "Cloud Security" : 20
     "Malware Analysis" : 15
-```
 
----
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -130,14 +147,6 @@ pie title 2025 Skill Investments
 <a href="https://medium.com/chandruthehacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chandruthehacker" height="30" width="40" /></a>
 </p>
 
----
-### 💬 Get In Touch
-
-<p align="center"> <a href="https://mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a> <a href="https://linkedin.com/in/chandraprakash87"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://tryhackme.com/p/chandruthehacker"><img src="https://img.shields.io/badge/TryHackMe-Profile-darkgreen?style=for-the-badge&logo=tryhackme"></a> </p>
-
----
-
-> Defense is not just a job—it's a mindset
 ---
 > Open to: SOC Internships • Threat Research Collaborations • CTF Teams
 ---

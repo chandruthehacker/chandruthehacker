@@ -14,31 +14,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&lines=Aspiring+Security+Analyst+%F0%9F%94%90;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+Learner+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
-<!-- Tagline -->
-<p align="center">
-  <b>🔵 Blue Teamer at heart — Building secure systems & hunting threats in the digital wilderness.</b>
-</p>
-
-<!-- Social Links -->
-<div align="center">
-  <a href="https://chandruthehacker.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Badge">
-  </a>
-  <a href="https://linkedin.com/in/chandruthehacker">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://medium.com/@chandruthehacker">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
-  </a>
-  <a href="mailto:cyberchandru87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-</div>
-
----
 
 <!-- Profile Views -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=chandruthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -53,7 +31,6 @@
 - 📫 Reach me at **cyberchandru87@gmail.com**  
 - 🎯 Long-term goal: **Build an AI-powered threat defense startup**  
 
----
 
 <!-- Quick Links -->
 ### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)  

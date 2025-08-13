@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="Animated_Gif_1.gif" alt="Anime SOC Analyst" style="max-width:100%; border-radius:10px;" />
+  <img src="Animated_Video.gif" alt="Anime SOC Analyst" style="max-width:100%; border-radius:10px;" />
 </p>
 
 <!-- Main Heading -->

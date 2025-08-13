@@ -31,10 +31,7 @@
 - 📫 Reach me at **cyberchandru87@gmail.com**  
 - 🎯 Long-term goal: **Build an AI-powered threat defense startup**  
 
-
-<!-- Quick Links -->
-### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)  
-### 📂 [View My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +41,11 @@
 <a href="https://instagram.com/cyberchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberchandru" height="30" width="40" /></a>
 <a href="https://medium.com/chandruthehacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chandruthehacker" height="30" width="40" /></a>
 </p>
+
+<!-- Quick Links -->
+### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)  
+### 📂 [View My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
+
 
 ## 🌟 Featured Project: SenSIEM
 > A full-stack log analysis & intrusion detection platform inspired by enterprise SIEM tools.

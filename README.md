@@ -26,13 +26,17 @@
   <img src="https://komarev.com/ghpvc/?username=chandruthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="chandruthehacker" />
 </p>
 
-### 🚀 **About Me**
-- 🎓 **B.Sc. Computer Science** student specializing in **Cybersecurity**
-- 🔭 **Currently:** Building SIEM tools and contributing to open-source projects
-- 🌱 **Learning:** Cloud Security (AWS/Azure), Malware Analysis, Threat Intelligence
-- 💡 **Passionate** about Blue Team operations, threat detection, and security automation
-- ✍️ **Sharing knowledge** via blogs on [Medium](https://medium.com/@chandruthehacker)
-- 🎯 **Long-Term Goal:** Launch a cybersecurity startup focused on AI-driven threat defense
+# 🚀 About Me
+
+- 🎓 I’m pursuing **B.Sc. Computer Science** with a specialization in **Cybersecurity**  
+- 🔭 I’m currently working on **[SenSIEM](https://github.com/chandruthehacker/SenSIEM)** — an open-source SIEM solution  
+- 🌱 I’m currently learning **Cloud Security (AWS/Azure), Malware Analysis, and Threat Intelligence**  
+- 👯 I’m looking to collaborate on **Blue Team projects, security automation, and open-source security tools**  
+- 👨‍💻 All of my projects are available at **[chandruthehacker.github.io](http://chandruthehacker.github.io/)**  
+- 📝 I regularly write articles on **[Medium](https://medium.com/@chandruthehacker)** about cybersecurity concepts and threat detection  
+- 💬 Ask me about **Cybersecurity, Ethical Hacking, Threat Detection, and Security Automation**  
+- 📫 How to reach me: **cyberchandru87@gmail.com**  
+- 🎯 **Long-Term Goal:** Launch an AI-driven cybersecurity startup  
 
 ---
 

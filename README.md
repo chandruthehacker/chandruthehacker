@@ -33,10 +33,8 @@
 - 🌱 I’m currently learning **Cloud Security (AWS/Azure), Malware Analysis, and Threat Intelligence**  
 - 👯 I’m looking to collaborate on **Blue Team projects, security automation, and open-source security tools**  
 - 👨‍💻 All of my projects are available at **[chandruthehacker.github.io](http://chandruthehacker.github.io/)**  
-- 📝 I regularly write articles on **[Medium](https://medium.com/@chandruthehacker)** about cybersecurity concepts and threat detection  
 - 💬 Ask me about **Cybersecurity, Ethical Hacking, Threat Detection, and Security Automation**  
 - 📫 How to reach me: **cyberchandru87@gmail.com**  
-- 🎯 **Long-Term Goal:** Launch an AI-driven cybersecurity startup  
 
 ---
 

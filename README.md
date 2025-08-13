@@ -5,7 +5,7 @@
 <h3 align="center">🔐 Aspiring Security Analyst | 🛡️ Cybersecurity Enthusiast | 🧠 Blue Team Learner</h3>
 
 <p align="center">
-  <a href="https://chandruthehacker.github.io/">🌐</a>
+  <a href="https://chandruthehacker.github.io/">***🌐 Portfolio***</a>
 
   <a href="https://mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
